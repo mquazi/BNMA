@@ -15,7 +15,6 @@ To run the workflow, you will need the following:
 
 - **📁 `/code`** - Contains R scripts for each follow-up time point.  
 - **📁 `/data`** - Includes the data used in the analysis.
-- **📁 `/image`** - Contains images for visualization.  
 
 ## 📖 Recommended Citation 
 
